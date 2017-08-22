@@ -1,4 +1,8 @@
 #BlueJ class context
 comment0.params=args
 comment0.target=void\ main(java.lang.String[])
-numComments=1
+comment1.params=d\ t
+comment1.target=double\ speed(double,\ double)
+comment2.params=Df\ Di\ t
+comment2.target=double\ displacement(double,\ double,\ double)
+numComments=3
